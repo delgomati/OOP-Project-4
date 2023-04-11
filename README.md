@@ -1,10 +1,6 @@
 # OOP-Project-5
 \#  Program Description
 
-\- Add A description of what your program does.
-
-\*\*Example:\*\*
-
 \1. The program will start display a main menu of six different options and an exit option. The user will input a valid number in order to be redirected to their intended option. 
 
 \2. The first option will ask the user for the patron’s name, address, and phone number to be inputed. Then it will call the library addPatron method.
